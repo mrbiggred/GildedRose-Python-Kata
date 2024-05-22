@@ -23,3 +23,31 @@ There are instructions in the [TextTest Readme](../texttests/README.md) for sett
 
     executable:${TEXTTEST_HOME}/python/texttest_fixture.py
     interpreter:python
+
+## Dependencies
+
+This project uses Poetry to manage its dependencies. To install dependencies:
+
+```
+poetry install
+```
+
+To add a new dependency:
+
+```
+poetry add package-name
+```
+
+## Dependencies
+
+This project uses Poetry to manage its dependencies. To install dependencies:
+
+```
+poetry install
+```
+
+To add a new dependency:
+
+```
+poetry add package-name
+```
